@@ -1,1 +1,4 @@
 Installed necessary softwares for VS code to run scripts.
+Enabled python and solidity formatting
+("pip install black") command is used to install python formatter named black in terminal
+to run python program on terminal : python filename (eg python deploy.py)
