@@ -5,4 +5,6 @@ to run python program on terminal : python filename (eg python deploy.py)
 
 To compile the solidity code in deploy.py = pip install py-solc-x
 
-Importing compiler: from solcx import compile_standard
+Importing compiler: from solcx import compile_standard, install_solc
+
+to install solidity compiler version: install_solc("0.6.0")
