@@ -1,0 +1,3 @@
+Got abi and bytecode values from compiled_sol.json
+Installed ganache chain to deploy and test smart contract
+"Ganache" is the simulation network, where we can deploy our contracts and interact like the real block chain
