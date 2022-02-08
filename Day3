@@ -1,3 +1,8 @@
 Got abi and bytecode values from compiled_sol.json
 Installed ganache chain to deploy and test smart contract
 "Ganache" is the simulation network, where we can deploy our contracts and interact like the real block chain
+install web3 to use ganache 
+
+from web3 import Web3
+
+web3=Web3(Web3.HTTPProvider(""))
