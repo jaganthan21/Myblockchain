@@ -3,6 +3,8 @@ Installed ganache chain to deploy and test smart contract
 "Ganache" is the simulation network, where we can deploy our contracts and interact like the real block chain
 install web3 to use ganache 
 
+to study more on web3 : https://web3py.readthedocs.io/en/stable/
+
 from web3 import Web3
 
 web3=Web3(Web3.HTTPProvider(""))
